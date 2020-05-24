@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589615222049.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "711979772",
+    "id" : "5AF8256B",
+    "lastKnownWriteTime" : 1590334240,
+    "last_content_update" : 1590334240901,
+    "path" : "~/GitHub/108bigdatacguim-hw1-ChenLinLai/DataAnalysis.R",
+    "project_path" : "DataAnalysis.R",
+    "properties" : {
+        "cursorPosition" : "69,24",
+        "scrollLine" : "62"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

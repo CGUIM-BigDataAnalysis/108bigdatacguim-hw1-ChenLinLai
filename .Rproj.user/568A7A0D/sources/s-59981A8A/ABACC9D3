@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589615277420.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2515043541",
+    "id" : "ABACC9D3",
+    "lastKnownWriteTime" : 1590334233,
+    "last_content_update" : 1590334233036,
+    "path" : "~/GitHub/108bigdatacguim-hw1-ChenLinLai/SalaryAnalysis.Rmd",
+    "project_path" : "SalaryAnalysis.Rmd",
+    "properties" : {
+        "cursorPosition" : "121,26",
+        "scrollLine" : "113"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
